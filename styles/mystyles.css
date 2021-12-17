@@ -1,0 +1,47 @@
+.center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+  }
+.img-fluid-medium{
+    max-width: 75%;
+    height: auto;
+}
+
+.bullet-space{
+    text-align: left;
+    margin: 3%;
+}
+
+.bold{
+    font-weight: bold;
+}
+.imageplace{
+    text-align: center;
+    height: 60px;
+}
+
+.left-pad{
+    text-align: left;
+    margin-left: 85px;
+}
+
+.centernopad{
+    text-align: center;
+}
+
+.titlelink{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    
+}
+.titlelink:hover{text-decoration: underline;}
+
+.smallindent{
+    font-size: smaller;
+    font-style:italic ;
+    margin-left: 5px;
+}
+
